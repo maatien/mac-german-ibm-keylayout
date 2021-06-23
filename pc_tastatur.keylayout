@@ -78,7 +78,7 @@
 			<key code="41" output="ö"/>
 			<key code="42" output="#"/>
 			<key code="43" output=","/>
-			<key code="44" action="- 1"/>
+			<key code="44" action="-"/>
 			<key code="45" output="n"/>
 			<key code="46" output="m"/>
 			<key code="47" output="."/>
